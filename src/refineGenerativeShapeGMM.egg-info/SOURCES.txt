@@ -1,0 +1,12 @@
+README.md
+setup.cfg
+setup.py
+src/refineGenerativeShapeGMM.egg-info/PKG-INFO
+src/refineGenerativeShapeGMM.egg-info/SOURCES.txt
+src/refineGenerativeShapeGMM.egg-info/dependency_links.txt
+src/refineGenerativeShapeGMM.egg-info/requires.txt
+src/refineGenerativeShapeGMM.egg-info/top_level.txt
+src/rgShapeGMM/__init__.py
+src/rgShapeGMM/core.py
+src/rgShapeGMM/gmm3n.py
+src/rgShapeGMM/mm.py
